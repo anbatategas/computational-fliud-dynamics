@@ -29,8 +29,8 @@ All source codes are located in the `code/` directory:
 The resulting 2D velocity profiles showcase the expected zero-slip boundary conditions at the square duct walls, with the maximum velocity concentrated at the geometric center. Due to mass conservation, the peak velocity in a square duct exceeds that of a circular pipe for the same spatially averaged velocity.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="images/Ex4_1_Fig1A_Jacobi.png" alt="Jacobi Velocity Profile" width="48%">
   <img src="images/Ex4_1_Fig1B_GaussSeidel.png" alt="Gauss-Seidel Velocity Profile" width="48%">
+  <img src="images/Ex4_1_Fig3B_GaussSeidel.png" alt="Gauss-Seidel Velocity Contours" width="48%">
 </div>
 
 *(Extended contour maps and cross-sectional profile comparisons are available in the `images/` directory).*
