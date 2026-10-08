@@ -32,7 +32,7 @@ As shown in the plots below, the empirical order of convergence perfectly matche
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="images/MethodComparisonError.jpg" alt="Method Comparison Error" width="48%">
-  <img src="images/MethodComparisonOrder.jpg" alt="Order of Convergence" width="48%">
+  <img src="images/MethodComparisonOrderRK3.jpg" alt="Order of Convergence" width="48%">
 </div>
 
 *(Note: Additional plots for individual method outputs and RK3-specific comparisons are available in the `images/` directory).*
