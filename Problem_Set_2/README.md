@@ -31,7 +31,7 @@ The repository includes a comprehensive method comparison script (`MethodCompari
 As shown in the plots below, the empirical order of convergence perfectly matches the theoretical predictions for each method.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="images/MethodComparisonError.jpg" alt="Method Comparison Error" width="48%">
+  <img src="images/MethodComparisonErrorRK3.jpg" alt="Method Comparison Error" width="48%">
   <img src="images/MethodComparisonOrderRK3.jpg" alt="Order of Convergence" width="48%">
 </div>
 
