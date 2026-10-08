@@ -28,8 +28,8 @@ All source codes are located in the `code/` directory. Because the implicit meth
 The 3D surface plots below visualize the temperature decay over time across the 1D spatial domain, demonstrating the numerical dissipation of the initial conditions until a steady-state thermal equilibrium is reached.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="images/Ex5_1_1_Fig1A.jpg" alt="Explicit Scheme 3D Evolution" width="48%">
-  <img src="images/Ex5_1_3_Fig3A.jpg" alt="Crank-Nicolson Scheme 3D Evolution" width="48%">
+  <img src="images/Ex5_1_3_Fig3A.png" alt="Crank-Nicolson Scheme 3D Evolution" width="48%">
+  <img src="images/Ex5_1_3_Fig3C.png" alt="Crank-Nicolson Scheme Temperature t-profile" width="48%">
 </div>
 
 *(Detailed 2D contour maps and constant-time profiles are available in the `images/` directory).*
